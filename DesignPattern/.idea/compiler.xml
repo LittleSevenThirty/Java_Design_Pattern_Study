@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tutorials-7.0-2" />
+        <module name="tutorials-23.0-2" />
+        <module name="tutorials-7.0-0" />
+        <module name="tutorials-7.0-1" />
+        <module name="tutorials-19.0-0" />
+        <module name="tutorials-15.0-0" />
+        <module name="tutorials-22.0-2" />
+        <module name="tutorials-22.0-1" />
+        <module name="tutorials-22.0-0" />
+        <module name="tutorials-8.0-0" />
+        <module name="tutorials-16.0-2" />
+        <module name="tutorials-13.0-0" />
+        <module name="tutorials-16.0-0" />
+        <module name="tutorials-16.0-1" />
+        <module name="tutorials-21.0-0" />
+        <module name="tutorials-21.0-1" />
+        <module name="tutorials-21.0-2" />
+        <module name="tutorials-4.0-0" />
+        <module name="tutorials-25.0-0" />
+        <module name="tutorials-4.0-1" />
+        <module name="tutorials-12.0-2" />
+        <module name="tutorials-12.0-0" />
+        <module name="tutorials-17.0-1" />
+        <module name="tutorials-12.0-1" />
+        <module name="tutorials-17.0-2" />
+        <module name="tutorials-9.0-0" />
+        <module name="tutorials-9.0-1" />
+        <module name="tutorials-17.0-0" />
+        <module name="tutorials-5.0-0" />
+        <module name="tutorials-5.0-1" />
+        <module name="tutorials-9.0-2" />
+        <module name="tutorials-13.0-1" />
+        <module name="tutorials-11.0-0" />
+        <module name="tutorials-13.0-2" />
+        <module name="AuthController" />
+        <module name="tutorials-20.0-0" />
+        <module name="tutorials-5.0-2" />
+        <module name="tutorials-11.0-1" />
+        <module name="tutorials-24.0-0" />
+        <module name="tutorials-18.0-0" />
+        <module name="tutorials-14.0-2" />
+        <module name="tutorials-6.0-0" />
+        <module name="tutorials-14.0-1" />
+        <module name="tutorials-6.0-1" />
+        <module name="tutorials-6.0-2" />
+        <module name="tutorials-10.0-0" />
+        <module name="tutorials-23.0-1" />
+        <module name="tutorials-10.0-1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AuthController" target="21" />
+      <module name="factory-pattern" target="1.8" />
+      <module name="tutorails" target="1.8" />
+      <module name="tutorails-13.0-1" target="21" />
+      <module name="tutorials-10.0-2" target="21" />
+      <module name="tutorials-23.0-0" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tutorials-13.0-0" options="-parameters" />
+      <module name="tutorials-13.0-2" options="-parameters" />
+    </option>
+  </component>
+</project>

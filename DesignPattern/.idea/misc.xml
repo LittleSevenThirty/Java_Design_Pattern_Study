@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/factory-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-4.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-4.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-5.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-5.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-5.0-2/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-6.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-6.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-6.0-2/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-7.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-7.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-7.0-2/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-8.0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-9.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-9.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-9.0-2/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-10.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-10.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-10.0-2/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-11.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-11.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-12.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-12.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-12.0-2/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorails-13.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-13.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorails-13.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-13.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-13.0-2/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-14.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-14.0-2/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-15.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-16.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/AuthController/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-16.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-16.0-2/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-17.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-17.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-17.0-2/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-18.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-19.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-20.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-21.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-21.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-21.0-2/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-22.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-22.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-22.0-2/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-23.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-23.0-1/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-23.0-2/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-24.0-0/pom.xml" />
+        <option value="$PROJECT_DIR$/tutorials-25.0-0/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/tutorials-10.0-2/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="corretto-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
